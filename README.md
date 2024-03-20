@@ -30,7 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alizakhan3&" alt="alizakhan3" /></p>
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AlizaKhan3">
-</a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"></a>
 <a href="https://github.com/AlizaKhan3?tab=followers"><img src="https://img.shields.io/github/followers/AlizaKhan3?label=Followers&style=social" alt="GitHub Badge"></a>
