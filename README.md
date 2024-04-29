@@ -24,7 +24,7 @@
 <br />
 
 <p>
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlizaKhan3&langs_count=8&layout=compact" alt="alizakhan3" /></p>
+  <img height=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlizaKhan3&langs_count=8&layout=compact" alt="alizakhan3" /></p>
 
 <p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alizakhan3&show_icons=true&locale=en" alt="alizakhan3" /></p>
 
