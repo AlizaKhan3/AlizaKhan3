@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="300" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" >
 
-- 🌱 I’m currently learning **Redux & crafting React Projects to strengthen my react concepts**
+- 🌱 I’m currently learning **Backend & crafting Projects**
 - 👯 I’m looking to collaborate on projects related to **Html,CSS & Javascript, ReactJS**
 - 📫 How to reach me **alizaadi2@gmail.com**
 
