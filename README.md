@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aliza Khan</h1>
-<h3 align="center">Frontend Developer/ React JS Developer</h3>
+<h3 align="center">Aspiring Mern Stack Developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" >
 
